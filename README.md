@@ -37,7 +37,7 @@ Our mission is to eliminate the friction of switching between operating systems,
 ```bash
 # Clone the repository
 git clone https://github.com/ancybjohn02/Nyra.git
-cd nyra-terminal
+cd Nyra
 
 # Install dependencies
 pip install -r requirements.txt
