@@ -1,0 +1,4 @@
+psutil 
+# psutils is already cross-platform
+rich
+pyfiglet
